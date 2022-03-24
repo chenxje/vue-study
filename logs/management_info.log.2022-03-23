@@ -1,0 +1,40 @@
+2022-03-23 00:06:55 [INFO] [SpringContextShutdownHook] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2022-03-23 00:06:55 [INFO] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2022-03-23 00:06:55 [INFO] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2022-03-23 14:50:09 [INFO] [main] com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-CBQF5K9 with PID 16896 (D:\idea-workspace\demo\build\classes\java\main started by cxj in D:\idea-workspace\demo)
+2022-03-23 14:50:09 [INFO] [main] com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2022-03-23 14:50:10 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2022-03-23 14:50:10 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2022-03-23 14:50:10 [INFO] [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-03-23 14:50:10 [INFO] [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2022-03-23 14:50:10 [INFO] [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/vue-study] - Initializing Spring embedded WebApplicationContext
+2022-03-23 14:50:10 [INFO] [main] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1217 ms
+2022-03-23 14:50:11 [INFO] [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-03-23 14:50:11 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2022-03-23 14:50:11 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path '/vue-study'
+2022-03-23 14:50:11 [INFO] [main] com.example.demo.DemoApplication - Started DemoApplication in 2.536 seconds (JVM running for 4.614)
+2022-03-23 14:51:47 [INFO] [http-nio-8088-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/vue-study] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-23 14:51:47 [INFO] [http-nio-8088-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-03-23 14:51:47 [INFO] [http-nio-8088-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2022-03-23 14:51:47 [INFO] [http-nio-8088-exec-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2022-03-23 14:51:47 [INFO] [http-nio-8088-exec-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2022-03-23 15:51:26 [INFO] [SpringContextShutdownHook] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2022-03-23 15:51:26 [INFO] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2022-03-23 15:51:26 [INFO] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2022-03-23 15:51:31 [INFO] [main] com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-CBQF5K9 with PID 9464 (D:\idea-workspace\demo\build\classes\java\main started by cxj in D:\idea-workspace\demo)
+2022-03-23 15:51:31 [INFO] [main] com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2022-03-23 15:51:32 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2022-03-23 15:51:32 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2022-03-23 15:51:32 [INFO] [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-03-23 15:51:32 [INFO] [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2022-03-23 15:51:32 [INFO] [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/vue-study] - Initializing Spring embedded WebApplicationContext
+2022-03-23 15:51:32 [INFO] [main] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 946 ms
+2022-03-23 15:51:32 [INFO] [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2022-03-23 15:51:33 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2022-03-23 15:51:33 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path '/vue-study'
+2022-03-23 15:51:33 [INFO] [main] com.example.demo.DemoApplication - Started DemoApplication in 1.774 seconds (JVM running for 2.796)
+2022-03-23 15:51:37 [INFO] [http-nio-8088-exec-3] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/vue-study] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-23 15:51:37 [INFO] [http-nio-8088-exec-3] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-03-23 15:51:37 [INFO] [http-nio-8088-exec-3] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2022-03-23 15:51:37 [INFO] [http-nio-8088-exec-3] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2022-03-23 15:51:38 [INFO] [http-nio-8088-exec-3] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.

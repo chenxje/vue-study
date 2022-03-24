@@ -1,0 +1,63 @@
+plugins {
+	id 'org.springframework.boot' version '2.3.0.RELEASE'
+	id 'io.spring.dependency-management' version '1.0.9.RELEASE'
+	id 'java'
+	id 'war'
+}
+
+group = 'com.example'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '1.8'
+//apply plugin:
+
+configurations {
+	compileOnly {
+		extendsFrom annotationProcessor
+	}
+}
+
+sourceSets {
+	main {
+		resources {
+			//可以将java目录下的所有非.java资源打包到classes下
+			srcDir 'src/main/java'
+		}
+	}
+}
+
+repositories {
+	mavenCentral()
+	buildscript {
+		repositories {
+			maven{ url 'http://maven.aliyun.com/nexus/content/groups/public/'}
+		}
+	}
+
+	allprojects {
+		repositories {
+			maven{ url 'http://maven.aliyun.com/nexus/content/groups/public/'}
+		}
+	}
+}
+
+dependencies {
+//	provide 'org.springframework.boot:spring-boot-starter-tomcat'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+//	implementation 'org.springframework.boot:spring-boot-starter-security'
+	implementation 'org.springframework.boot:spring-boot-starter-cache'
+	implementation 'org.springframework.boot:spring-boot-starter-aop'
+	implementation 'org.springframework.boot:spring-boot-starter'
+	implementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter:2.1.2'
+	compileOnly 'org.projectlombok:lombok'
+	annotationProcessor 'org.projectlombok:lombok'
+	implementation 'com.alibaba:fastjson:1.2.58'
+	implementation 'org.apache.httpcomponents:httpclient:4.5.2'
+	implementation 'org.apache.httpcomponents:httpmime:4.5.6'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	runtimeOnly 'mysql:mysql-connector-java'
+	compile group: 'com.github.pagehelper', name: 'pagehelper-spring-boot-starter', version: '1.2.4'
+}
+
+test {
+	useJUnitPlatform()
+}

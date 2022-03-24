@@ -1,0 +1,128 @@
+2020-06-08 16:31:41 [INFO] [main] com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-CBQF5K9 with PID 17092 (D:\idea-workspace\demo\build\classes\java\main started by cxj in D:\idea-workspace\demo)
+2020-06-08 16:31:41 [INFO] [main] com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-08 16:31:42 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 16:31:42 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 16:31:42 [INFO] [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 16:31:42 [INFO] [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 16:31:42 [INFO] [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+2020-06-08 16:31:42 [INFO] [main] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 836 ms
+2020-06-08 16:31:42 [INFO] [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 16:31:42 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 16:31:42 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+2020-06-08 16:31:42 [INFO] [main] com.example.demo.DemoApplication - Started DemoApplication in 1.563 seconds (JVM running for 2.364)
+2020-06-08 16:31:47 [INFO] [http-nio-8080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 16:31:47 [INFO] [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 16:31:47 [INFO] [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-06-08 16:32:02 [INFO] [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 16:32:42 [INFO] [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 16:34:26 [INFO] [SpringContextShutdownHook] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-08 16:34:30 [INFO] [main] com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-CBQF5K9 with PID 9556 (D:\idea-workspace\demo\build\classes\java\main started by cxj in D:\idea-workspace\demo)
+2020-06-08 16:34:30 [INFO] [main] com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-08 16:34:30 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 16:34:30 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 16:34:30 [INFO] [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 16:34:30 [INFO] [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 16:34:30 [INFO] [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+2020-06-08 16:34:30 [INFO] [main] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 863 ms
+2020-06-08 16:34:31 [INFO] [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 16:34:31 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 16:34:31 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+2020-06-08 16:34:31 [INFO] [main] com.example.demo.DemoApplication - Started DemoApplication in 1.599 seconds (JVM running for 2.395)
+2020-06-08 16:34:35 [INFO] [http-nio-8080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 16:34:35 [INFO] [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 16:34:35 [INFO] [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2020-06-08 16:34:35 [INFO] [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 16:34:35 [INFO] [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 17:10:34 [INFO] [SpringContextShutdownHook] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-08 17:10:34 [INFO] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-06-08 17:10:34 [INFO] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-06-08 17:10:39 [INFO] [main] com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-CBQF5K9 with PID 8196 (D:\idea-workspace\demo\build\classes\java\main started by cxj in D:\idea-workspace\demo)
+2020-06-08 17:10:39 [INFO] [main] com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-08 17:10:40 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 17:10:40 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:10:40 [INFO] [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 17:10:40 [INFO] [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 17:10:40 [INFO] [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+2020-06-08 17:10:40 [INFO] [main] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 858 ms
+2020-06-08 17:10:40 [INFO] [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 17:10:40 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:10:40 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+2020-06-08 17:10:40 [INFO] [main] com.example.demo.DemoApplication - Started DemoApplication in 1.606 seconds (JVM running for 2.525)
+2020-06-08 17:10:46 [INFO] [http-nio-8080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 17:10:46 [INFO] [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 17:10:46 [INFO] [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-06-08 17:10:46 [INFO] [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 17:10:47 [INFO] [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 17:12:46 [INFO] [SpringContextShutdownHook] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-08 17:12:46 [INFO] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-06-08 17:12:46 [INFO] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-06-08 17:12:49 [INFO] [main] com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-CBQF5K9 with PID 8664 (D:\idea-workspace\demo\build\classes\java\main started by cxj in D:\idea-workspace\demo)
+2020-06-08 17:12:49 [INFO] [main] com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-08 17:12:50 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 17:12:50 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:12:50 [INFO] [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 17:12:50 [INFO] [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 17:12:50 [INFO] [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+2020-06-08 17:12:50 [INFO] [main] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 839 ms
+2020-06-08 17:12:50 [INFO] [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 17:12:50 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:12:50 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+2020-06-08 17:12:50 [INFO] [main] com.example.demo.DemoApplication - Started DemoApplication in 1.563 seconds (JVM running for 2.379)
+2020-06-08 17:12:55 [INFO] [http-nio-8080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 17:12:55 [INFO] [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 17:12:55 [INFO] [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-06-08 17:12:55 [INFO] [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 17:12:55 [INFO] [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 17:14:14 [INFO] [SpringContextShutdownHook] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-08 17:14:14 [INFO] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-06-08 17:14:14 [INFO] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-06-08 17:14:44 [INFO] [main] com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-CBQF5K9 with PID 13804 (D:\idea-workspace\demo\build\classes\java\main started by cxj in D:\idea-workspace\demo)
+2020-06-08 17:14:44 [INFO] [main] com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-08 17:14:45 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 17:14:45 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:14:45 [INFO] [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 17:14:45 [INFO] [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 17:14:45 [INFO] [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+2020-06-08 17:14:45 [INFO] [main] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 859 ms
+2020-06-08 17:14:45 [INFO] [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 17:14:45 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:14:45 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+2020-06-08 17:14:45 [INFO] [main] com.example.demo.DemoApplication - Started DemoApplication in 1.595 seconds (JVM running for 2.382)
+2020-06-08 17:14:49 [INFO] [http-nio-8080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 17:14:49 [INFO] [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 17:14:49 [INFO] [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2020-06-08 17:14:49 [INFO] [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 17:14:49 [INFO] [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 17:15:05 [INFO] [SpringContextShutdownHook] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-08 17:15:05 [INFO] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-06-08 17:15:05 [INFO] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-06-08 17:44:48 [INFO] [main] com.example.demo.DemoApplication - Starting DemoApplication on DESKTOP-CBQF5K9 with PID 12320 (D:\idea-workspace\demo\build\classes\java\main started by cxj in D:\idea-workspace\demo)
+2020-06-08 17:44:48 [INFO] [main] com.example.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-08 17:44:49 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 17:44:49 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:44:49 [INFO] [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 17:44:49 [INFO] [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 17:44:49 [INFO] [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] - Initializing Spring embedded WebApplicationContext
+2020-06-08 17:44:49 [INFO] [main] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 866 ms
+2020-06-08 17:44:49 [INFO] [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 17:44:49 [INFO] [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:44:49 [INFO] [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+2020-06-08 17:44:49 [INFO] [main] com.example.demo.DemoApplication - Started DemoApplication in 1.613 seconds (JVM running for 2.638)
+2020-06-08 17:45:01 [INFO] [http-nio-8080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 17:45:01 [INFO] [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 17:45:01 [INFO] [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-06-08 17:45:01 [INFO] [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 17:45:01 [INFO] [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 18:21:11 [INFO] [Test worker] com.example.demo.DemoApplicationTests - Starting DemoApplicationTests on DESKTOP-CBQF5K9 with PID 21536 (started by cxj in D:\idea-workspace\demo)
+2020-06-08 18:21:11 [INFO] [Test worker] com.example.demo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+2020-06-08 18:21:12 [INFO] [Test worker] org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: c1f9f16b-7ec2-4cd0-aec8-b0bf0ee54ac8
+
+2020-06-08 18:21:13 [INFO] [Test worker] org.springframework.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3e287cc2, org.springframework.security.web.context.SecurityContextPersistenceFilter@21654af0, org.springframework.security.web.header.HeaderWriterFilter@7e64ede, org.springframework.security.web.csrf.CsrfFilter@a52c7a4, org.springframework.security.web.authentication.logout.LogoutFilter@13b3bbdd, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@3ba0bfae, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@746c6262, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@27a58dbf, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@63eb451c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5de2e3fd, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@407b3142, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@54a5b361, org.springframework.security.web.session.SessionManagementFilter@515ed855, org.springframework.security.web.access.ExceptionTranslationFilter@53a8b0f0, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6633d77]
+2020-06-08 18:21:13 [INFO] [Test worker] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 18:21:13 [INFO] [Test worker] com.example.demo.DemoApplicationTests - Started DemoApplicationTests in 2.438 seconds (JVM running for 3.812)
+2020-06-08 18:21:13 [INFO] [SpringContextShutdownHook] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-08 21:50:50 [INFO] [SpringContextShutdownHook] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-08 21:50:50 [INFO] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-06-08 21:50:50 [INFO] [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
